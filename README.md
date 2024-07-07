@@ -3,7 +3,7 @@
 This project is a user registration system built using Express.js following the MVC architecture. It includes error handling middleware to validate user input and ensure data integrity.
 
 ## Project Structure
-
+```
 user-registration/
 │
 ├── app.js
@@ -15,7 +15,7 @@ user-registration/
 │ └── userRoutes.js
 └── models/
 └── user.js
-
+```
 
 ## Features
 
